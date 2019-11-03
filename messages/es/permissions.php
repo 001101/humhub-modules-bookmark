@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Allow other users to see your bookmarks' => '',
-    'Can manage Bookmark entries.' => '',
-    'Manage Bookmark' => '',
-    'View your bookmark stream' => '',
+    'Permita que otros usuarios vean sus marcadores'=> '',
+    'Puede administrar entradas de marcadores.' => '',
+    'Administrar marcador' => '',
+    'Ver su flujo de marcadores' => '',
 ];
