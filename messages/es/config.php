@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Configuración predeterminada de marcadores' => '',
-    'Aquí puede configurar los ajustes predeterminados para las secuencias de marcadores. Estas configuraciones se pueden sobrescribir en el nivel de perfil.' => '',
-    'Aquí puede configurar los ajustes predeterminados para su transmisión de marcadores.' => '',
-    'Reiniciar' => '',
+    'Default bookmark settings' => 'Configuración predeterminada de marcadores',
+    'Here you can configure default settings for bookmark streams. These settings can be overwritten on profile level.' => 'Aquí puede configurar los ajustes predeterminados para las secuencias de marcadores. Estas configuraciones se pueden sobrescribir en el nivel de perfil.',
+    'Here you can configure default settings for your bookmark stream.' => 'Aquí puede configurar los ajustes predeterminados para su transmisión de marcadores.',
+    'Reset' => 'Reiniciar',
 ];

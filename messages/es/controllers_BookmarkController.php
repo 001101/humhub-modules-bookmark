@@ -17,5 +17,5 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<strong>Usuarios</strong> quien marcó esto' => '',
+    '<strong>Users</strong> who bookmarked this' => '<strong>Usuarios</strong> quien marcó esto',
 ];

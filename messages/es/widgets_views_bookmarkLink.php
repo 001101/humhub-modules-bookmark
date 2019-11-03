@@ -17,11 +17,11 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    ' marcado esto.' => '',
-    'Marcador' => '',
-    'Eliminar Marcador ' => '',
-    'Establecer marcador' => '',
-    'Tu' => '',
-    'Has marcado esto como favorito.' => '',
-    'y {count} más lo marcaron como favorito.' => '',
+    ' bookmarked this.' => ' marcado esto.',
+    'Bookmark' => 'Marcador',
+    'Remove bookmark' => 'Eliminar Marcador ',
+    'Set Bookmark' => 'Establecer marcador',
+    'You' => 'Tu',
+    'You bookmarked this.' => 'Has marcado esto como favorito.',
+    'and {count} more bookmarked this.' => 'y {count} más lo marcaron como favorito.',
 ];

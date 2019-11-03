@@ -17,5 +17,5 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '{userDisplayName} marcado {contentTitle}' => '',
+    '{userDisplayName} bookmarked {contentTitle}' => '{userDisplayName} marcado {contentTitle}',
 ];

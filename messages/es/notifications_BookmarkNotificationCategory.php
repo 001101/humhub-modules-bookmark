@@ -17,6 +17,6 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Marcador' => '',
-    'Reciba notificaciones cuando alguien marque su contenido como favorito.' => '',
+    'Bookmark' => 'Marcador',
+    'Receive Notifications when someone bookmarked your content.' => 'Reciba notificaciones cuando alguien marque su contenido como favorito.',
 ];

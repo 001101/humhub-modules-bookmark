@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '¡Acceso denegado!' => '',
-    'Agrega un enlace de marcador para el contenido.' => '',
+    'Access denied!' => '¡Acceso denegado!',
+    'Adds a bookmark link for content.' => 'Agrega un enlace de marcador para el contenido.',
     'Bookmark' => 'Marcador',
     'Bookmarks' => 'Marcadores',
-    'Muestra tu contenido marcado.' => '',
-    'Enviar' => '',
+    'Shows up your bookmarked content.' => 'Muestra tu contenido marcado.',
+    'Submit' => 'Enviar',
 ];
