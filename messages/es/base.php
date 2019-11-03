@@ -19,8 +19,8 @@
 return [
     '¡Acceso denegado!' => '',
     'Agrega un enlace de marcador para el contenido.' => '',
-    'Marcador' => '',
-    'Marcadores' => '',
+    'Bookmark' => 'Marcador',
+    'Bookmarks' => 'Marcadores',
     'Muestra tu contenido marcado.' => '',
     'Enviar' => '',
 ];
