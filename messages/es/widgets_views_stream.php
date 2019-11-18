@@ -17,7 +17,7 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<b>This bookmark stream is still empty!</b>' => '',
-    '<b>This bookmark stream is still empty</b>' => '',
-    '<b>You have not set a bookmark yet!</b><br>Search for content that interests you and bookmark it!' => '',
+    '<b>This bookmark stream is still empty!</b>' => '<b>¡Esta secuencia de marcadores todavía está vacío!</b>',
+    '<b>This bookmark stream is still empty</b>' => '<b>Esta secuencia de marcadores todavía está vacía </b>',
+    '<b>You have not set a bookmark yet!</b><br>Search for content that interests you and bookmark it!' => '<b>¡Aún no ha establecido un marcador!</b><br>¡Busca contenido que te interese y marca como favorito!',
 ];

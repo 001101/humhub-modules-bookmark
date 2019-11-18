@@ -17,15 +17,15 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<strong>Bookmark</strong> module configuration' => '',
-    'Back to modules' => '',
-    'Bookmark view settings' => '',
-    'Here you can change the view settings for bookmarks.' => '',
-    'Icon color' => '',
-    'Select color' => '',
-    'Show Bookmark-Count in braces.' => '',
-    'Show an icon for each entry.' => '',
-    'Show global Bookmark-View in full width.' => '',
-    'Show pinned content first.' => '',
-    'Sort order' => '',
+    '<strong>Bookmark</strong> module configuration' => 'Configuración del módulo de <strong>Marcadores</strong>',
+    'Back to modules' => 'Volver a los modulos',
+    'Bookmark view settings' => 'Configuración de vista de marcadores',
+    'Here you can change the view settings for bookmarks.' => 'Aquí puede cambiar la configuración de vista para marcadores.',
+    'Icon color' => 'Color del icono',
+    'Select color' => 'Seleccionar el color',
+    'Show Bookmark-Count in braces.' => 'Mostrar marcador-recuento entre llaves.',
+    'Show an icon for each entry.' => 'Mostrar un icono para cada entrada.',
+    'Show global Bookmark-View in full width.' => 'Mostrar vista de marcador global en todo el ancho.',
+    'Show pinned content first.' => 'Mostrar contenido anclado primero.',
+    'Sort order'=> 'Orden de clasificación',
 ];

@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '{displayNames} bookmarked your {contentTitle}.' => '',
-    '{displayNames} bookmarked {contentTitle}.' => '',
-    '{displayName} bookmarked your {contentTitle}.' => '',
-    '{displayName} bookmarked {contentTitle}.' => '',
+    '{displayNames} bookmarked your {contentTitle}.' => '{displayNames} marcó su {contentTitle}.',
+    '{displayNames} bookmarked {contentTitle}.' => '{displayNames}marcó {contentTitle}.',
+    '{displayName} bookmarked your {contentTitle}.' => '{displayName} marcó su {contentTitle}.',
+    '{displayName} bookmarked {contentTitle}.' => '{displayName} marcó {contentTitle}.',
 ];
